@@ -1,0 +1,62 @@
+https://www.geeksforgeeks.org/top-50-problems-on-stack-data-structure-asked-in-interviews/
+
+
+
+Easy Problems
+Parenthesis Checker
+Reverse a String using Stack
+Postfix to Prefix
+Two stacks in an array
+Delete Middle element from stack
+Reverse individual words
+
+
+
+Medium Problems
+
+Queue using Stacks
+Stack using Queues
+Stack using single queue
+Evaluate Postfix Expression
+Next Greater Element
+Nearest Smaller Element
+Next Smaller of next Greater
+Sort a stack using a temporary stack
+Stock Span Problem
+Reverse a Stack using recursion
+Infix to Postfix
+Delete consecutive same words
+Largest subsequence of distinct characters
+Check if a Binary Tree is BST
+Minimize length by removing subsequences
+Special Stack
+Clone a stack without extra space | Set 2
+Count of Subarrays whose first element is the minimum
+Length of the longest valid substring
+Index of closing bracket
+Next Greater Frequency Element
+Max Diff between nearest smallers
+Max product of indexes of next greaters
+
+
+
+
+Hard Problems
+
+Valid stack permutation
+Stack with getMin() in O(1) time and space
+insert(), delete(), getRandom() and getMin() in O(1) time
+Equivalent expressions
+k stacks in a single array
+Largest rectangular area in a histogram
+The Celebrity Problem
+Custom Browser History
+Maximum size rectangle | Set 2
+Sort a stack using another stack
+Stack with findMiddle() and deleteMiddle() operations in O(1) time
+Maximum visible people
+Count distinct Max Differences in Subarrays
+Largest Rectangular Area in a Histogram
+Longest Correct Bracket Subsequence Set
+Maximum of minimum for every window size
+Print ancestors of a binary tree node
